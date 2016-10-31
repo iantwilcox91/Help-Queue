@@ -1,0 +1,9 @@
+.jumbotron {
+  text-align: center;
+  background-color: orange;
+  color: white;
+}
+body {
+  background-color: lightgrey;
+  text-align: center;
+}
